@@ -8,6 +8,9 @@ This project integrates the Django and Scrapy frameworks. For example, a scrappi
 **scraper** folder inside below command execute : 
 Here **/devnote-scrapy/scraper/**
 
+### Install Scrapy
+<pre>pip install scrapy</pre>
+
 ### Running the spider
 <pre>scrapy crawl devnote</pre>
 
